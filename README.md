@@ -17,6 +17,6 @@ Built with Astro (fully static) and Univer Sheets (the formula engine runs clien
 
 ## Elsewhere
 
-- Blog: [sheetdo.com/blog](https://sheetdo.com/blog/)
+- Blog: [sheetdo.com/blog/](https://sheetdo.com/blog/?utm_source=github&utm_medium=profile&utm_campaign=evergreen-links)
 - X: [@marsbuildlog](https://x.com/marsbuildlog)
 - Threads: [@marsbuildlog](https://www.threads.com/@marsbuildlog)
